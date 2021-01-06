@@ -1,14 +1,10 @@
 
-ECE 4750 Group 24 [![Build Status](https://travis-ci.com/cornell-ece4750/lab-group24.svg?token=sPjK7gKr2Tfez5Vg3KVJ&branch=master)](https://travis-ci.com/cornell-ece4750/lab-group24)
+ECE 4750 Group 24 
 ==========================================================================
 
 This is the code repository for your ECE 4750 lab assignments. You will
 use this repository to collaborate with your group members, run
-continuous integration tests, and submit each assignment. You can edit
-this README by cloning the repository, using your favorite text editor,
-and pushing your changes back to GitHub, or by using the following link:
-
- * https://github.com/cornell-ece4750/lab-group24/edit/master/README.md
+continuous integration tests, and submit each assignment. 
 
 ### Group Members
 
@@ -40,20 +36,6 @@ role, and which student was the architect.
  Lab 3 |      RTL     |RTL(architect)| Verification
  Lab 4 |              |              |
  Lab 5 |     RTL      | Verification |RTL (architect)
-
-### TravisCI Continuous Integration
-
-We will be using TravisCI as our continuous integration service.
-Continuous integration means all of the tests for your repository will be
-run automatically every time you push to this repository. The current
-status of these tests is shown as an image at the top of the README. If
-the image says "failing" then your repository is currently failing one or
-more tests; if the image says "passed" then your repository is passing
-all tests. You can click on the image or on the following direct link to
-go to the TravisCI build report to find out more about which tests are
-passing or failing.
-
- * https://travis-ci.com/cornell-ece4750/lab-group24
 
 ### GitHub Issues and Wiki
 
